@@ -38,6 +38,9 @@ Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processin
 * Unsupervised learning methods
 * Fast training and real-time completion
 
+Deep Learning for 3D Point Clouds: A Survey (PAMI 2020) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9127813)]
+* TODO
+
 # Dataset
 * ShapeNet
 * ShapeNet55
