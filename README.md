@@ -1,6 +1,7 @@
 # Point-Cloud-Research
 [[paper]()]
-# Paper
+
+# Recent Paper
 
 ## ICCV 2021
 SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)]
@@ -18,12 +19,40 @@ PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[pape
 
 View-Guided Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
 
+# Categories
+* Point-based methods
+* Convolution-based methods
+* Graph-based method
+* Folding-based methods
+* GAN-based methods
+* Transformer-based methods
+* VAE-based methods
+* Other methods
 
 # Survey
 Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processing and Analysis (arxiv 2022) [[paper](https://arxiv.org/pdf/2203.03311.pdf)]
+* New real-world dataset
+* Dedicated architecture for feature learning
+* Corresponding loss function
+* Transformer-based methods
+* Unsupervised learning methods
+* Fast training and real-time completion
 
 # Dataset
+* ShapeNet
+* ShapeNet55
+* ShapeNet34
+* KITTI
+* ModelNet
+* Completion3D
+* MVP
+* SVP
 
 # Metrics
+* Chamfer Distance (CD)
+* Earth Mover’s Distance (EMD)
+* Fidelity Error (FD)
+* Maxinum Mean Discrepancy (MMD)
+* Density-aware Chamfer Distance (DCD)
 
 # Related Resources
