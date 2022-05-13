@@ -4,20 +4,20 @@
 # Recent Paper
 
 ## ICCV 2021
-SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)]
+* SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)]
  
-RFNet: Recurrent Forward Network for Dense Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)]
+* RFNet: Recurrent Forward Network for Dense Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)]
 
-PoinTr: Diverse Point Cloud Completion With Geometry-Aware Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.pdf)]
+* PoinTr: Diverse Point Cloud Completion With Geometry-Aware Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.pdf)]
 
 ## CVPR 2021
-Style-Based Point Generator With Adversarial Rendering for Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Style-Based_Point_Generator_With_Adversarial_Rendering_for_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
+* Style-Based Point Generator With Adversarial Rendering for Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Style-Based_Point_Generator_With_Adversarial_Rendering_for_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
 
-Cycle4Completion: Unpaired Point Cloud Completion Using Cycle Transformation With Missing Region Coding [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Cycle4Completion_Unpaired_Point_Cloud_Completion_Using_Cycle_Transformation_With_Missing_CVPR_2021_paper.pdf)]
+* Cycle4Completion: Unpaired Point Cloud Completion Using Cycle Transformation With Missing Region Coding [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Cycle4Completion_Unpaired_Point_Cloud_Completion_Using_Cycle_Transformation_With_Missing_CVPR_2021_paper.pdf)]
 
-PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)]
+* PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)]
 
-View-Guided Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
+* View-Guided Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
 
 # Categories
 * Point-based methods
