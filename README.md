@@ -1,15 +1,15 @@
 # Point-Cloud-Research
 [[paper]()]
 
-# Recent Paper
+# Recent Papers
 
 ## Arxiv 2022
-* PointAttN: You Only Need Attention for Point Cloud Completion [[paper](https://arxiv.org/abs/2203.08485)]
+* PointAttN: You Only Need Attention for Point Cloud Completion [[paper](https://arxiv.org/abs/2203.08485)] (**recommended**)
 
 * PMP-Net++: Point cloud completion by transformer-enhanced multi-step point moving paths [[paper](https://arxiv.org/pdf/2202.09507v3.pdf)]
 
 ## ICCV 2021
-* SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)]
+* SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)] (**recommended**)
  
 * RFNet: Recurrent Forward Network for Dense Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)]
 
@@ -20,11 +20,23 @@
 
 * Cycle4Completion: Unpaired Point Cloud Completion Using Cycle Transformation With Missing Region Coding [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Cycle4Completion_Unpaired_Point_Cloud_Completion_Using_Cycle_Transformation_With_Missing_CVPR_2021_paper.pdf)]
 
-* PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)]
+* PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)] (**recommended**)
 
 * View-Guided Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
 
 * Variational Relational Point Completion Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Variational_Relational_Point_Completion_Network_CVPR_2021_paper.pdf)]
+
+# Previous Paper
+FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)]
+TopNet (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)]
+AtlasNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf)]
+PCN (3DV 2018) [[paper](https://arxiv.org/pdf/1808.00671.pdf)]
+GRNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2006.03761.pdf?ref=https://githubhelp.com)]
+CRN (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cascaded_Refinement_Network_for_Point_Cloud_Completion_CVPR_2020_paper.pdf)]
+NSFA (ECCV 2020) [[paper](https://arxiv.org/pdf/2007.02374.pdf)]
+SoftPoolNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2008.07358.pdf)]
+SA-Net (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)]
+
 
 # Categories
 * Point-based methods
