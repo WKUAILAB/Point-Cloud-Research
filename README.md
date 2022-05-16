@@ -26,16 +26,16 @@
 
 * Variational Relational Point Completion Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Variational_Relational_Point_Completion_Network_CVPR_2021_paper.pdf)]
 
-# Previous Paper
-FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)]
-TopNet (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)]
-AtlasNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf)]
-PCN (3DV 2018) [[paper](https://arxiv.org/pdf/1808.00671.pdf)]
-GRNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2006.03761.pdf?ref=https://githubhelp.com)]
-CRN (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cascaded_Refinement_Network_for_Point_Cloud_Completion_CVPR_2020_paper.pdf)]
-NSFA (ECCV 2020) [[paper](https://arxiv.org/pdf/2007.02374.pdf)]
-SoftPoolNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2008.07358.pdf)]
-SA-Net (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)]
+# Previous Paper Recommended
+* FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)]
+* TopNet (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)]
+* AtlasNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf)]
+* PCN (3DV 2018) [[paper](https://arxiv.org/pdf/1808.00671.pdf)]
+* GRNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2006.03761.pdf?ref=https://githubhelp.com)]
+* CRN (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cascaded_Refinement_Network_for_Point_Cloud_Completion_CVPR_2020_paper.pdf)]
+* NSFA (ECCV 2020) [[paper](https://arxiv.org/pdf/2007.02374.pdf)]
+* SoftPoolNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2008.07358.pdf)]
+* SA-Net (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)]
 
 
 # Categories
