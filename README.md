@@ -6,7 +6,7 @@
 ## Arxiv 2022
 * PointAttN: You Only Need Attention for Point Cloud Completion [[paper](https://arxiv.org/abs/2203.08485)]
 
-* TODO
+* PMP-Net++: Point cloud completion by transformer-enhanced multi-step point moving paths [[paper](https://arxiv.org/pdf/2202.09507v3.pdf)]
 
 ## ICCV 2021
 * SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)]
@@ -23,6 +23,8 @@
 * PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)]
 
 * View-Guided Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
+
+* Variational Relational Point Completion Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Variational_Relational_Point_Completion_Network_CVPR_2021_paper.pdf)]
 
 # Categories
 * Point-based methods
