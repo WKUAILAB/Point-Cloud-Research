@@ -4,7 +4,7 @@
 # Recent Papers
 
 ## Arxiv 2022
-* PointAttN: You Only Need Attention for Point Cloud Completion [[paper](https://arxiv.org/abs/2203.08485)] (**recommended**)
+* PointAttN: You Only Need Attention for Point Cloud Completion [[paper](https://arxiv.org/abs/2203.08485)][[code](https://github.com/ohhhyeahhh/PointAttN)] (**recommended**)
 
 * PMP-Net++: Point cloud completion by transformer-enhanced multi-step point moving paths [[paper](https://arxiv.org/pdf/2202.09507v3.pdf)]
 
