@@ -9,7 +9,7 @@
 * PMP-Net++: Point cloud completion by transformer-enhanced multi-step point moving paths [[paper](https://arxiv.org/pdf/2202.09507v3.pdf)]
 
 ## ICCV 2021
-* SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)] (**recommended**)
+* SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)] [[code](https://github.com/AllenXiangX/SnowflakeNet)] (**recommended**)
  
 * RFNet: Recurrent Forward Network for Dense Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)]
 
@@ -20,7 +20,7 @@
 
 * Cycle4Completion: Unpaired Point Cloud Completion Using Cycle Transformation With Missing Region Coding [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_Cycle4Completion_Unpaired_Point_Cloud_Completion_Using_Cycle_Transformation_With_Missing_CVPR_2021_paper.pdf)]
 
-* PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)] (**recommended**)
+* PMP-Net: Point Cloud Completion by Learning Multi-Step Point Moving Paths [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Wen_PMP-Net_Point_Cloud_Completion_by_Learning_Multi-Step_Point_Moving_Paths_CVPR_2021_paper.pdf)] [[code](https://github.com/diviswen/PMP-Net)] (**recommended**)
 
 * View-Guided Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_View-Guided_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
 
