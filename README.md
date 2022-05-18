@@ -9,7 +9,7 @@
 * PMP-Net++: Point cloud completion by transformer-enhanced multi-step point moving paths [[paper](https://arxiv.org/pdf/2202.09507v3.pdf)]
 
 ## ICCV 2021
-* **SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)] [[code](https://github.com/AllenXiangX/SnowflakeNet)]
+* **SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/AllenXiangX/SnowflakeNet)]
  
 * RFNet: Recurrent Forward Network for Dense Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Huang_RFNet_Recurrent_Forward_Network_for_Dense_Point_Cloud_Completion_ICCV_2021_paper.pdf)]
 
