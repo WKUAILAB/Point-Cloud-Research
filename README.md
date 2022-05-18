@@ -27,7 +27,7 @@
 * Variational Relational Point Completion Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Variational_Relational_Point_Completion_Network_CVPR_2021_paper.pdf)]
 
 # Previous Paper Recommended
-* FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)] [[Pytorch](https://github.com/AnTao97/UnsupervisedPointCloudReconstruction)]
+* FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)] [[caffe](https://www.merl.com/research/license/FoldingNet#download)]
 * TopNet (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)] [[Pytorch](https://github.com/lynetcha/completion3d)]
 * AtlasNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf)] [[Pytorch](https://github.com/ThibaultGROUEIX/AtlasNet)]
 * PCN (3DV 2018) [[paper](https://arxiv.org/pdf/1808.00671.pdf)] [[TensorFlow](https://github.com/wentaoyuan/pcn)]
