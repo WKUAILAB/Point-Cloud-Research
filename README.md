@@ -35,7 +35,7 @@
 * CRN (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cascaded_Refinement_Network_for_Point_Cloud_Completion_CVPR_2020_paper.pdf)] [[code](https://github.com/xiaogangw-zz/cascaded-point-completion)]
 * NSFA (ECCV 2020) [[paper](https://arxiv.org/pdf/2007.02374.pdf)] [[code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)]
 * SoftPoolNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2008.07358.pdf)] [[code](https://github.com/wangyida/softpool)]
-* SA-Net (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)] (No code)
+* SA-Net (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)] [[code](https://github.com/diviswen/sanet)]
 
 
 # Categories
@@ -58,19 +58,19 @@ Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processin
 * Fast training and real-time completion
 
 Deep Learning for 3D Point Clouds: A Survey (PAMI 2020) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9127813)]
-* TODO
 
 # Dataset
-* ShapeNet
+* **ShapeNet**
 * ShapeNet55
 * ShapeNet34
 * KITTI
 * ModelNet
-* Completion3D
+* **Completion3D**
 * MVP
 * SVP
 
 # Metrics
+* L1/L2 Distance
 * Chamfer Distance (CD)
 * Earth Mover’s Distance (EMD)
 * Fidelity Error (FD)
