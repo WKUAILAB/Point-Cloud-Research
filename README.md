@@ -27,15 +27,15 @@
 * Variational Relational Point Completion Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Variational_Relational_Point_Completion_Network_CVPR_2021_paper.pdf)]
 
 # Previous Paper Recommended
-* FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)] [[code](http://www.merl.com/research/license#FoldingNet)]
-* TopNet (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)] [[code](https://github.com/lynetcha/completion3d)]
-* AtlasNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf)] [[code](https://github.com/ThibaultGROUEIX/AtlasNet)]
-* PCN (3DV 2018) [[paper](https://arxiv.org/pdf/1808.00671.pdf)] [[code](https://github.com/wentaoyuan/pcn)]
-* GRNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2006.03761.pdf?ref=https://githubhelp.com)] [[code](https://github.com/hzxie/GRNet)]
-* CRN (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cascaded_Refinement_Network_for_Point_Cloud_Completion_CVPR_2020_paper.pdf)] [[code](https://github.com/xiaogangw-zz/cascaded-point-completion)]
-* NSFA (ECCV 2020) [[paper](https://arxiv.org/pdf/2007.02374.pdf)] [[code](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)]
-* SoftPoolNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2008.07358.pdf)] [[code](https://github.com/wangyida/softpool)]
-* SA-Net (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)] [[code](https://github.com/diviswen/sanet)]
+* FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)] [[Pytorch]([http://www.merl.com/research/license#FoldingNet](https://github.com/AnTao97/UnsupervisedPointCloudReconstruction))]
+* TopNet (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)] [[Pytorch](https://github.com/lynetcha/completion3d)]
+* AtlasNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf)] [[Pytorch](https://github.com/ThibaultGROUEIX/AtlasNet)]
+* PCN (3DV 2018) [[paper](https://arxiv.org/pdf/1808.00671.pdf)] [[TensorFlow](https://github.com/wentaoyuan/pcn)]
+* GRNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2006.03761.pdf?ref=https://githubhelp.com)] [[Pytorch](https://github.com/hzxie/GRNet)]
+* CRN (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Cascaded_Refinement_Network_for_Point_Cloud_Completion_CVPR_2020_paper.pdf)] [[TensorFlow](https://github.com/xiaogangw-zz/cascaded-point-completion)]
+* NSFA (ECCV 2020) [[paper](https://arxiv.org/pdf/2007.02374.pdf)] [[TensorFlow](https://github.com/XLechter/Detail-Preserved-Point-Cloud-Completion-via-SFA)]
+* SoftPoolNet (ECCV 2020) [[paper](https://arxiv.org/pdf/2008.07358.pdf)] [[TensorFlow](https://github.com/wangyida/softpool)]
+* SA-Net (CVPR 2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wen_Point_Cloud_Completion_by_Skip-Attention_Network_With_Hierarchical_Folding_CVPR_2020_paper.pdf)] [[TensorFlow](https://github.com/diviswen/sanet)]
 
 
 # Categories
