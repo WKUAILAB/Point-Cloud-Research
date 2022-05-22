@@ -17,6 +17,10 @@
 
 * Voxel-based Network for Shape Completion by Leveraging Edge Generation [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.pdf)]
 
+* ME-PCN: Point Completion Conditioned on Mask Emptiness [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Gong_ME-PCN_Point_Completion_Conditioned_on_Mask_Emptiness_ICCV_2021_paper.pdf)]
+
+* 3D Shape Generation and Completion through Point-Voxel Diffusion [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhou_3D_Shape_Generation_and_Completion_Through_Point-Voxel_Diffusion_ICCV_2021_paper.pdf)]
+
 ## CVPR 2021
 * Style-Based Point Generator With Adversarial Rendering for Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Style-Based_Point_Generator_With_Adversarial_Rendering_for_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
 
