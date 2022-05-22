@@ -32,6 +32,11 @@
 
 * Variational Relational Point Completion Network [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Pan_Variational_Relational_Point_Completion_Network_CVPR_2021_paper.pdf)]
 
+* Denoise and Contrast for Category Agnostic Shape Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Alliegro_Denoise_and_Contrast_for_Category_Agnostic_Shape_Completion_CVPR_2021_paper.pdf)]
+
+* Unsupervised 3D Shape Completion through GAN Inversion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Unsupervised_3D_Shape_Completion_Through_GAN_Inversion_CVPR_2021_paper.pdf)]
+
+
 # Previous Papers
 * FoldingNet (CVPR 2018) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_FoldingNet_Point_Cloud_CVPR_2018_paper.pdf)] [[Caffe](https://www.merl.com/research/license/FoldingNet#download)]
 * TopNet (CVPR 2019) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tchapmi_TopNet_Structural_Point_Cloud_Decoder_CVPR_2019_paper.pdf)] [[Pytorch](https://github.com/lynetcha/completion3d)]
