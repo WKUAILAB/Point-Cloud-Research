@@ -15,6 +15,8 @@
 
 * PoinTr: Diverse Point Cloud Completion With Geometry-Aware Transformers [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_PoinTr_Diverse_Point_Cloud_Completion_With_Geometry-Aware_Transformers_ICCV_2021_paper.pdf)]
 
+* Voxel-based Network for Shape Completion by Leveraging Edge Generation [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.pdf)]
+
 ## CVPR 2021
 * Style-Based Point Generator With Adversarial Rendering for Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Style-Based_Point_Generator_With_Adversarial_Rendering_for_Point_Cloud_Completion_CVPR_2021_paper.pdf)]
 
