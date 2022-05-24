@@ -69,8 +69,18 @@ Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processin
 * Fast training and real-time completion
 
 Deep Learning for 3D Point Clouds: A Survey (PAMI 2020) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9127813)]
-(TODO: write future works for each category)
-
+* 3D Shape Classification
+  * Graph Convolution
+* 3D Object Detection
+  * Regional Proposal-based methods
+  * Long-range & texture information
+  * Multi-task learning
+* 3D Semantic Segmentation
+  * Sparse Convolution to reduce information loss and computational & memory cost
+  * Point-voxel joint representation to exploit neb. information
+  * Learning from imbalanced dataset
+  * Segmentation of large-scale point clouds
+  * Spatio-temporal information for dynamic point clouds
 # Dataset
 * **ShapeNet**
 * ShapeNet55
