@@ -8,6 +8,11 @@
 
 * PMP-Net++: Point cloud completion by transformer-enhanced multi-step point moving paths [[paper](https://arxiv.org/pdf/2202.09507v3.pdf)]
 
+## ICLR 2022
+* A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://openreview.net/forum?id=wqD6TfbYkrn)]
+* Deep Point Cloud Reconstruction [[paper](https://openreview.net/forum?id=mKDtUtxIGJ)]
+* Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework [[paper](https://openreview.net/forum?id=3Pbra-_u76D)]
+
 ## ICCV 2021
 * **SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/AllenXiangX/SnowflakeNet)]
  
