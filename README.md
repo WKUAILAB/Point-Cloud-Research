@@ -10,7 +10,9 @@
 
 ## ICLR 2022
 * A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://openreview.net/forum?id=wqD6TfbYkrn)]
+
 * Deep Point Cloud Reconstruction [[paper](https://openreview.net/forum?id=mKDtUtxIGJ)]
+
 * Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework [[paper](https://openreview.net/forum?id=3Pbra-_u76D)]
 
 ## ICCV 2021
