@@ -81,6 +81,9 @@ Deep Learning for 3D Point Clouds: A Survey (PAMI 2020) [[paper](https://ieeexpl
   * Learning from imbalanced dataset
   * Segmentation of large-scale point clouds
   * Spatio-temporal information for dynamic point clouds
+
+Review: Deep Learning on 3D Point Clouds [[paper](https://www.mdpi.com/2072-4292/12/11/1729)]
+
 # Dataset
 * **ShapeNet**
 * ShapeNet55
