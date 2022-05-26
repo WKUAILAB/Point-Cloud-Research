@@ -68,12 +68,21 @@
 
 # Survey
 Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processing and Analysis (arxiv 2022) [[paper](https://arxiv.org/pdf/2203.03311.pdf)]
-* New real-world dataset
-* Dedicated architecture for feature learning
-* Corresponding loss function
-* Transformer-based methods
-* Unsupervised learning methods
-* Fast training and real-time completion
+* TODO: limitation for each categories of methods
+  * Point-based methods
+  * Convolution-based Methods
+  * Graph-based Methods
+  * Folding-based Methods
+  * GAN-based Methods
+  * Transformer-based Methods
+  * Other Methods
+* Overall future works
+  * New real-world dataset
+  * Dedicated architecture for feature learning
+  * Corresponding loss function
+  * Transformer-based methods
+  * Unsupervised learning methods
+  * Fast training and real-time completion
 
 Deep Learning for 3D Point Clouds: A Survey (PAMI 2020) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9127813)]
 * 3D Shape Classification
