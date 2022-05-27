@@ -68,13 +68,35 @@
 
 # Survey
 Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processing and Analysis (arxiv 2022) [[paper](https://arxiv.org/pdf/2203.03311.pdf)]
-* TODO: limitation for each categories of methods
   * Point-based methods
+    * overlook geometrical neighbor information
+      * lose local features
+    * coarse-to-fine manner
+      * coarse outputs lose high-freq. information
+      * point up-sampling cannot synthesize complex topoligies
+    * directly with points
+      * extensive computation with large-scale data
   * Convolution-based Methods
+    * ineffetive voxel or grid representation 
+      * huge computation and memory requirements
+    * difficult vovel or grid size selection
+      * poor spatial relationship between points
   * Graph-based Methods
+    * hard to define an operator for dynamic neighbors
+    * hard to maintain the weight sharing of CNNs
+    * spatial and geometric relationships among neighbors
   * Folding-based Methods
+    * overlook the local shape charateristics within parent points
   * GAN-based Methods
+    * uneven distribution for shape surface
+      * unwanted holes
+    * different pos. for partial input and predicted output
+      * poor reconstruction
+    * complicated point distribution & hard GAN training
+      * small size of points
   * Transformer-based Methods
+    * Huge model parameters
+    * Poor model interpretablilty
   * Other Methods
 * Overall future works
   * New real-world dataset
