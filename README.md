@@ -97,7 +97,6 @@ Comprehensive Review of Deep Learning-Based 3D Point Clouds Completion Processin
   * Transformer-based Methods
     * Huge model parameters
     * Poor model interpretablilty
-  * Other Methods
 * Overall future works
   * New real-world dataset
   * Dedicated architecture for feature learning
