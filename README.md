@@ -121,6 +121,11 @@ Deep Learning for 3D Point Clouds: A Survey (PAMI 2020) [[paper](https://ieeexpl
 
 Review: Deep Learning on 3D Point Clouds [[paper](https://www.mdpi.com/2072-4292/12/11/1729)]
 
+# Ideas
+* Geometric Module 
+* Skip-connection between encoding & decoding transformers (maybe with edge)
+* Light-weight convolution layer
+
 # Dataset
 * **ShapeNet**
 * ShapeNet55
