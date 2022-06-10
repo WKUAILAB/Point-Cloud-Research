@@ -1,7 +1,19 @@
 # Point-Cloud-Research
-[[paper]()]
+[[paper]()] [[Code]()]
 
 # Recent Papers
+
+
+## CVPR 2022
+* AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.pdf)] [[Code](https://github.com/yccyenchicheng/AutoSDF/)]
+
+* ShapeFormer: Transformer-Based Shape Completion via Sparse Representation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_ShapeFormer_Transformer-Based_Shape_Completion_via_Sparse_Representation_CVPR_2022_paper.pdf)]
+
+* Learning Local Displacements for Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_Local_Displacements_for_Point_Cloud_Completion_CVPR_2022_paper.pdf)]
+
+* LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_LAKe-Net_Topology-Aware_Point_Cloud_Completion_by_Localizing_Aligned_Keypoints_CVPR_2022_paper.pdf)]
+
+* Learning a Structured Latent Space for Unsupervised Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_Learning_a_Structured_Latent_Space_for_Unsupervised_Point_Cloud_Completion_CVPR_2022_paper.pdf)]
 
 ## Arxiv 2022
 * **PointAttN: You Only Need Attention for Point Cloud Completion** [[paper](https://arxiv.org/abs/2203.08485)][[Pytorch](https://github.com/ohhhyeahhh/PointAttN)] 
