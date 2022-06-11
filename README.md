@@ -9,7 +9,7 @@
 
 * ShapeFormer: Transformer-Based Shape Completion via Sparse Representation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_ShapeFormer_Transformer-Based_Shape_Completion_via_Sparse_Representation_CVPR_2022_paper.pdf)] [[Code](https://github.com/qheldiv/shapeformer)]
 
-* Learning Local Displacements for Point Cloud Completion [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_Local_Displacements_for_Point_Cloud_Completion_CVPR_2022_paper.pdf)] [[Code](https://github.com/wangyida/disp3d)]
+* **Learning Local Displacements for Point Cloud Completion** [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Learning_Local_Displacements_for_Point_Cloud_Completion_CVPR_2022_paper.pdf)] [[Code](https://github.com/wangyida/disp3d)]
 
 * LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_LAKe-Net_Topology-Aware_Point_Cloud_Completion_by_Localizing_Aligned_Keypoints_CVPR_2022_paper.pdf)]
 
@@ -25,7 +25,7 @@
 
 * Deep Point Cloud Reconstruction [[paper](https://openreview.net/forum?id=mKDtUtxIGJ)]
 
-* Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework [[paper](https://openreview.net/forum?id=3Pbra-_u76D)]
+* **Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework** [[paper](https://openreview.net/forum?id=3Pbra-_u76D)]
 
 ## ICCV 2021
 * **SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution With Skip-Transformer** [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_SnowflakeNet_Point_Cloud_Completion_by_Snowflake_Point_Deconvolution_With_Skip-Transformer_ICCV_2021_paper.pdf)] [[Pytorch](https://github.com/AllenXiangX/SnowflakeNet)]
