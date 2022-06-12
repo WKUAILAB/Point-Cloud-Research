@@ -21,7 +21,7 @@
 * PMP-Net++: Point cloud completion by transformer-enhanced multi-step point moving paths [[paper](https://arxiv.org/pdf/2202.09507v3.pdf)]
 
 ## ICLR 2022
-* A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://openreview.net/forum?id=wqD6TfbYkrn)]
+* **A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion** [[paper](https://openreview.net/forum?id=wqD6TfbYkrn)] [[Code](https://github.com/ZhaoyangLyu/Point_Diffusion_Refinement)]
 
 * Deep Point Cloud Reconstruction [[paper](https://openreview.net/forum?id=mKDtUtxIGJ)]
 
