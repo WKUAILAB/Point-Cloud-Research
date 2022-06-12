@@ -4,7 +4,7 @@
 # Recent Papers
 
 
-## CVPR 2022 (TO Read)
+## CVPR 2022
 * AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.pdf)] [[Code](https://github.com/yccyenchicheng/AutoSDF/)]
 
 * ShapeFormer: Transformer-Based Shape Completion via Sparse Representation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_ShapeFormer_Transformer-Based_Shape_Completion_via_Sparse_Representation_CVPR_2022_paper.pdf)] [[Code](https://github.com/qheldiv/shapeformer)] **(Not complete yet)**
