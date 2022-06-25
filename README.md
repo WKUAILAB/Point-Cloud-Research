@@ -1,8 +1,21 @@
 # Point-Cloud-Research
 [[paper]()] [[Code]()]
 
-# Recent Papers
+# Fundamental Challenges
 
+## Irregularity
+* A mixture of dense point clouds and sparse point clouds
+
+## Unstructured 
+* Different distance between two adjacent point clouds
+* (for image: ) Same distance between two adjacent pixels
+
+## Unordered
+* Order does not matter (e.g., [1,2,3] = [3,2,1])
+* (for image: ) order does matter (e.g., [1,2,3] != [3,2,1])
+
+
+# Recent Papers
 
 ## CVPR 2022
 * AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.pdf)] [[Code](https://github.com/yccyenchicheng/AutoSDF/)]
