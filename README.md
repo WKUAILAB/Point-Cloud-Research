@@ -17,7 +17,20 @@
 
 # Recent Papers
 
-## CVPR 2022
+## CVPR 2022 (For Point Cloud Segmentation)
+* Contrastive Boundary Learning for Point Cloud Segmentation
+
+* An MIL-Derived Transformer for Weakly Supervised Point Cloud Segmentation
+
+* Pyramid Architecture for Multi-Scale Processing in Point Cloud Segmentation
+
+* SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation
+
+* Stratified Transformer for 3D Point Cloud Segmentation
+
+* HybridCR: Weakly-Supervised 3D Point Cloud Semantic Segmentation via Hybrid Contrastive Regularization
+
+## CVPR 2022 (For Point Cloud Completion)
 * AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Mittal_AutoSDF_Shape_Priors_for_3D_Completion_Reconstruction_and_Generation_CVPR_2022_paper.pdf)] [[Code](https://github.com/yccyenchicheng/AutoSDF/)]
 
 * ShapeFormer: Transformer-Based Shape Completion via Sparse Representation [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_ShapeFormer_Transformer-Based_Shape_Completion_via_Sparse_Representation_CVPR_2022_paper.pdf)] [[Code](https://github.com/qheldiv/shapeformer)] 
