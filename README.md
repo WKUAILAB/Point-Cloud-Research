@@ -17,6 +17,15 @@
 
 # Recent Papers
 
+## CVPR 2022 (For Point Cloud Registration)
+* Multi-Instance Point Cloud Registration by Efficient Correspondence Clustering
+
+* Deterministic Point Cloud Registration via Novel Transformation Decomposition
+
+* SC2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration
+
+* Geometric Transformer for Fast and Robust Point Cloud Registration
+
 ## CVPR 2022 (For Point Cloud Segmentation)
 * Contrastive Boundary Learning for Point Cloud Segmentation
 
